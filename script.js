@@ -1,5 +1,5 @@
 mapboxgl.accessToken =
-"pk.eyJ1IjoicHJhbmVldGg5NSIsImEiOiJja2dwOXdjbnUwYTUyMnRsOHRlNGVjb3ZtIn0.vbLWaequMEnDIuCDKGGUbA"
+//Enter your key from Mapbox here to access the Map clone
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true
